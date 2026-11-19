@@ -2,7 +2,8 @@
 
 A lightweight, mobile-friendly web app designed to track daily commute, coaching, and personal expenses in Taka (৳) without needing an account or internet connection after loading.
 
-**Live App:** [https://github.io](https://github.io)
+👉 **Live App:** [Open Kharcha Tracker](https://github.io)
+
 
 ## Features
 - **Starting Balance & Chacha Rate:** Set your initial budget and standard per-trip fare once at the start.
