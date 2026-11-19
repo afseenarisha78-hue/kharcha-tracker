@@ -17,4 +17,4 @@ A lightweight, mobile-friendly web app designed to track daily commute, coaching
 - HTML, CSS, and JavaScript (Single-file web app)
 - Browser `localStorage` for offline data persistence
 - Hosted on **GitHub Pages**
-- 
+  
